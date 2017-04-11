@@ -1,0 +1,97 @@
+nav{
+    padding-top: 60px;
+}
+.nav{
+    display:inline-block;
+    margin-left: 10%;
+}
+
+nav img{
+    width: 70%;
+}
+.nav li{
+    display:inline-block;   
+ }
+
+.nav{
+    float: left;
+}
+
+nav form{
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#black{
+    background-color: whitesmoke;
+}
+
+#white{
+    background-color: white;
+    box-shadow: 0px 8px 80px #aaa;
+}
+
+#slider{
+    padding-left: 0px;
+    padding-right: 0px;    
+}
+
+#elephant{
+    width: 100%;   
+}
+
+
+.img1{
+    width: 100%;
+}
+.img2{
+    width: 100%;  
+}
+
+#article{
+    
+    padding-top: 5%;
+}
+
+
+.trio{
+    padding-bottom: 5%;
+    border-bottom: 1px solid;
+    border-color: #C9C9C9;
+}
+
+.duo{
+    padding-top: 5%;
+} 
+
+#bgb{
+    background-color: black;
+    margin-top: 8%;
+    padding-top: 3%;
+}
+
+#Build{
+font-size: 150%;
+color: white;
+}
+#We{
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+#We p {
+font-weight: bold;
+  font-size: 150%;
+  color: Black;  
+}
+
+#View {
+    color: black;
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+#bot{
+    background-color: black;
+    padding-top: 3%;
+}
