@@ -31,7 +31,7 @@
             </div>
          </div>
 
-         <div class="row" id="bgb">
+         <div class="row" id="bgg">
              <?php
                 $a = new Area('CTA');
                 $a->display($c);

@@ -36,38 +36,19 @@ nav form{
     padding-right: 0px;    
 }
 
-#elephant{
-    width: 100%;   
-}
-
-
-.img1{
-    width: 100%;
-}
-.img2{
-    width: 100%;  
-}
-
 #article{
     
     padding-top: 5%;
 }
 
-
-.trio{
-    padding-bottom: 5%;
-    border-bottom: 1px solid;
-    border-color: #C9C9C9;
-}
-
-.duo{
-    padding-top: 5%;
-} 
-
-#bgb{
-    background-color: black;
+#bgg{
+    background-color: #222222;
     margin-top: 8%;
     padding-top: 3%;
+}
+
+#testblock{
+    display: inline-block;
 }
 
 #Build{
@@ -86,12 +67,33 @@ font-weight: bold;
 }
 
 #View {
-    color: black;
-    padding-top: 3%;
-    padding-bottom: 2%;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+
+.textblack{
+    color:black;
+    font-weight: bold;
 }
 
 #bot{
-    background-color: black;
+    background-color: #222222;
     padding-top: 3%;
+    color:#CACACA;
+}
+
+#bot strong{
+    color:white;
+}
+
+#bgb{
+    background-color: #1D1D1D;
+}
+
+#bgb p{
+    color:white;
+    padding-top: 2%;
+    padding-left: 20%;
 }
